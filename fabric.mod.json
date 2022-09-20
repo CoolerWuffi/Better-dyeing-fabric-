@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "better_dyeing_mod",
+  "version": "1.0.0",
+  "name": "better_dyeing_mod",
+  "description": "Let you craft a blue wool block with red dye into a red one",
+  "authors": [
+    "CoolerWuffi"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/coolerwuffi/projects"
+  },
+  "icon": "better_dyeing.png",
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+      "suggests": {
+      "another-mod": "Orderly (Fabric) 2.0"
+  }
+
+  
+}
